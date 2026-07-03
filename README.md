@@ -6,6 +6,7 @@ My LeetCode solutions and progress.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igautam21/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,4 +76,8 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/igautam21/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
