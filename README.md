@@ -65,6 +65,7 @@ My LeetCode solutions and progress.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/igautam21/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
@@ -83,4 +84,8 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
