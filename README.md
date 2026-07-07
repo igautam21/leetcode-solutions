@@ -69,6 +69,7 @@ My LeetCode solutions and progress.
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/igautam21/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
