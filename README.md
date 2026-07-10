@@ -23,6 +23,7 @@ My LeetCode solutions and progress.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -31,6 +32,7 @@ My LeetCode solutions and progress.
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -62,11 +64,13 @@ My LeetCode solutions and progress.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -77,6 +81,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
