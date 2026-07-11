@@ -17,6 +17,7 @@ My LeetCode solutions and progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/igautam21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/igautam21/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/igautam21/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igautam21/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -71,6 +72,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/igautam21/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -82,6 +84,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/igautam21/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
