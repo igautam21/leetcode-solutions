@@ -103,6 +103,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igautam21/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -118,4 +119,12 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/igautam21/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
