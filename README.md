@@ -8,6 +8,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/igautam21/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -142,5 +143,6 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/igautam21/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
