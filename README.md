@@ -60,6 +60,7 @@ My LeetCode solutions and progress.
 | [0076-minimum-window-substring](https://github.com/igautam21/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igautam21/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igautam21/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/igautam21/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/igautam21/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ My LeetCode solutions and progress.
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/igautam21/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/igautam21/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/igautam21/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igautam21/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
