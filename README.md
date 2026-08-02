@@ -14,6 +14,7 @@ My LeetCode solutions and progress.
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ My LeetCode solutions and progress.
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/igautam21/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/igautam21/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -153,6 +155,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -177,4 +180,8 @@ My LeetCode solutions and progress.
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/igautam21/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
