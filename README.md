@@ -129,6 +129,7 @@ My LeetCode solutions and progress.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +181,7 @@ My LeetCode solutions and progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/igautam21/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
