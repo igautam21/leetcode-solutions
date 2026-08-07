@@ -11,6 +11,7 @@ My LeetCode solutions and progress.
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/igautam21/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -134,6 +135,7 @@ My LeetCode solutions and progress.
 | [0029-divide-two-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -150,12 +152,14 @@ My LeetCode solutions and progress.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/igautam21/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/igautam21/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/igautam21/leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Dynamic Programming
 |  |
@@ -191,4 +195,16 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
