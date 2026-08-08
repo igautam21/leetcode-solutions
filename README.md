@@ -122,6 +122,7 @@ My LeetCode solutions and progress.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/igautam21/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -207,4 +208,12 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/igautam21/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/igautam21/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
