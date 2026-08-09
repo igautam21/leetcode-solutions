@@ -13,6 +13,7 @@ My LeetCode solutions and progress.
 | [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
@@ -32,6 +33,7 @@ My LeetCode solutions and progress.
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igautam21/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/igautam21/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +46,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/igautam21/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -57,6 +60,7 @@ My LeetCode solutions and progress.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/igautam21/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,6 +97,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -185,6 +190,7 @@ My LeetCode solutions and progress.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -227,5 +233,10 @@ My LeetCode solutions and progress.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
