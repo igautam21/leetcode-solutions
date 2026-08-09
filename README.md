@@ -73,6 +73,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/igautam21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/igautam21/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/igautam21/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -131,6 +132,7 @@ My LeetCode solutions and progress.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/igautam21/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/igautam21/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -239,4 +241,8 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
