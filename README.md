@@ -15,6 +15,7 @@ My LeetCode solutions and progress.
 | [0260-single-number-iii](https://github.com/igautam21/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
@@ -146,6 +147,7 @@ My LeetCode solutions and progress.
 | [0232-implement-queue-using-stacks](https://github.com/igautam21/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -260,4 +262,5 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
