@@ -11,6 +11,7 @@ My LeetCode solutions and progress.
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igautam21/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/igautam21/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
@@ -155,6 +156,7 @@ My LeetCode solutions and progress.
 | [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igautam21/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/igautam21/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/igautam21/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/igautam21/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -208,6 +210,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -283,6 +286,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igautam21/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/igautam21/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -290,4 +294,8 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/igautam21/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
