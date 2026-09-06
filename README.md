@@ -22,6 +22,7 @@ My LeetCode solutions and progress.
 | [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/igautam21/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -112,6 +113,7 @@ My LeetCode solutions and progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/igautam21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/igautam21/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/igautam21/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igautam21/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/igautam21/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -130,6 +132,7 @@ My LeetCode solutions and progress.
 | [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -158,6 +161,7 @@ My LeetCode solutions and progress.
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/igautam21/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/igautam21/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -234,12 +238,14 @@ My LeetCode solutions and progress.
 | [0004-median-of-two-sorted-arrays](https://github.com/igautam21/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/igautam21/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/igautam21/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/igautam21/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
