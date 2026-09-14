@@ -204,6 +204,7 @@ My LeetCode solutions and progress.
 | [0070-climbing-stairs](https://github.com/igautam21/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/igautam21/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/igautam21/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/igautam21/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/igautam21/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -345,6 +346,7 @@ My LeetCode solutions and progress.
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/igautam21/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/igautam21/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
