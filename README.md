@@ -7,6 +7,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/igautam21/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/igautam21/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
@@ -176,6 +177,7 @@ My LeetCode solutions and progress.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/igautam21/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/igautam21/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/igautam21/leetcode-solutions/tree/master/0148-sort-list) |
