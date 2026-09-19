@@ -115,6 +115,7 @@ My LeetCode solutions and progress.
 | [0205-isomorphic-strings](https://github.com/igautam21/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igautam21/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igautam21/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/igautam21/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/igautam21/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -200,6 +201,7 @@ My LeetCode solutions and progress.
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/igautam21/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/igautam21/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/igautam21/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/igautam21/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -335,6 +337,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
