@@ -37,6 +37,7 @@ My LeetCode solutions and progress.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igautam21/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/igautam21/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/igautam21/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/igautam21/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/igautam21/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -260,6 +261,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0204-count-primes](https://github.com/igautam21/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/igautam21/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/igautam21/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
