@@ -24,7 +24,7 @@ public:
         int n=board[0].size();
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(word[0]==board[i][j] && find(0,i,j,board,word)) return true;
+                if( find(0,i,j,board,word)) return true;
             }
         }
         return false;
