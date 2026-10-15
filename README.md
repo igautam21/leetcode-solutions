@@ -12,6 +12,7 @@ My LeetCode solutions and progress.
 | [0042-trapping-rain-water](https://github.com/igautam21/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/igautam21/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/igautam21/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/igautam21/leetcode-solutions/tree/master/0136-single-number) |
@@ -116,6 +117,7 @@ My LeetCode solutions and progress.
 | [0003-longest-substring-without-repeating-characters](https://github.com/igautam21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/igautam21/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/igautam21/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/igautam21/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/igautam21/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/igautam21/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -303,6 +305,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/igautam21/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +379,7 @@ My LeetCode solutions and progress.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/igautam21/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Queue
 |  |
@@ -419,6 +423,7 @@ My LeetCode solutions and progress.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
