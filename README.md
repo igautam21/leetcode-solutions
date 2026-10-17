@@ -399,6 +399,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -411,6 +412,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -428,6 +430,7 @@ My LeetCode solutions and progress.
 | ------- |
 | [0079-word-search](https://github.com/igautam21/leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -435,6 +438,7 @@ My LeetCode solutions and progress.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## DP on Trees
 |  |
