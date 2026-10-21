@@ -66,6 +66,7 @@ My LeetCode solutions and progress.
 | [0496-next-greater-element-i](https://github.com/igautam21/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/igautam21/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/igautam21/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/igautam21/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/igautam21/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -165,6 +166,7 @@ My LeetCode solutions and progress.
 | [0658-find-k-closest-elements](https://github.com/igautam21/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/igautam21/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/igautam21/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/igautam21/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/igautam21/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -405,6 +407,7 @@ My LeetCode solutions and progress.
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/igautam21/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,6 +422,7 @@ My LeetCode solutions and progress.
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/igautam21/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -436,6 +440,7 @@ My LeetCode solutions and progress.
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/igautam21/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -443,6 +448,7 @@ My LeetCode solutions and progress.
 | [0101-symmetric-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/igautam21/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/igautam21/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
